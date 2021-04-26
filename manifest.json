@@ -5,7 +5,7 @@
   "description": "common library for ssr projects",
   "unity": "2021.1",
   "dependencies": {
-    "com.unity.ugui": "1.0.0",
+    "com.unity.ugui": "1.0.0"
  },
  "keywords": [
     "ssr",
@@ -15,10 +15,5 @@
     "name": "SSR",
     "email": "ssr@plevel.com",
     "url": "https://plevel.com"
-  },
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/camelot10/ru.ssrazor.common.git",
   }
 }
