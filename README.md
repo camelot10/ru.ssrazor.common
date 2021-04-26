@@ -1,1 +1,1 @@
-readme
+simple common lib for my projects
