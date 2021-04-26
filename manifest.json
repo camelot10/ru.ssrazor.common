@@ -15,5 +15,10 @@
     "name": "SSR",
     "email": "ssr@plevel.com",
     "url": "https://plevel.com"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/camelot10/ru.ssrazor.common.git",
   }
 }
