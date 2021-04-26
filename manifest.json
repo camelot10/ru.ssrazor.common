@@ -1,0 +1,19 @@
+{
+  "name": "ru.ssrazor.common",
+  "version": "1.0.0",
+  "displayName": "SSR common",
+  "description": "common library for ssr projects",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+ },
+ "keywords": [
+    "ssr",
+    "common",
+  ],
+  "author": {
+    "name": "SSR",
+    "email": "ssr@plevel.com",
+    "url": "https://plevel.com"
+  }
+}
