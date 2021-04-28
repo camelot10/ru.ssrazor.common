@@ -1,6 +1,6 @@
 {
   "name": "ru.ssrazor.common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "SSR common",
   "description": "common library for ssr projects",
   "unity": "2021.1",

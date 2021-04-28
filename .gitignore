@@ -1,1 +1,3 @@
-*.meta
+
+/Editor/SSCommonEditorUtils.cs.meta
+/Editor/Unity.SSRCommon.Editor.asmdef.meta
