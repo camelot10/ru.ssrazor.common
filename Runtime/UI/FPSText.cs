@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace SSR.UI
 {
-	public class FPSCounter : MonoBehaviour
+	public class FPSText : MonoBehaviour
 	{
 		[SerializeField] private float updatePeriod = 0.5f;
 		[SerializeField] private string display = "{0} FPS";
